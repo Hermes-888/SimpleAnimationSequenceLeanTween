@@ -58,7 +58,7 @@ namespace SimpleAnimation
         PlayScaleAnimations();
       }
       // Rotate Animations - check if start on enable
-      if (doScaleOnEnable == true)
+      if (doRotateOnEnable  == true)
       {
         PlayRotateAnimations();
       }
